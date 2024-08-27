@@ -63,10 +63,10 @@ Below are some visual representations of the key findings and concepts from this
 ![Sustainable Transport Options](https://www.frontiersin.org/files/Articles/1161361/fbuil-09-1161361-HTML/image_m/fbuil-09-1161361-g001.jpg)  
 *Figure 1: Sustainable Transport Options Explored by Students*
 
-![Tourist Satisfaction](https://pub.mdpi-res.com/sustainability/sustainability-14-03050/article_deploy/html/images/sustainability-14-03050-g001-550.jpg?1646456721)  
+![Tourist Satisfaction](https://www.mdpi.com/sustainability/sustainability-13-01887/article_deploy/html/images/sustainability-13-01887-g002.png)  
 *Figure 2: Relationship Between Sustainable Transport and Tourist Satisfaction*
 
-![Economic Impact](https://i0.wp.com/transportgeography.org/wp-content/uploads/greenhouse_transport_sector.png?resize=900%2C372&ssl=1)  
+![Economic Impact](https://www.adb.org/sites/default/files/infographics/thumbnails/adb-infographic-climate-change-and-transport-thumbnail_0.png)  
 *Figure 3: Economic Impact of Sustainable Transport on Destination Management*
 
 ## Contributing
