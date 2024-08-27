@@ -1,6 +1,6 @@
 # Sustainable Transport Integration in Tourism
 
-![Sustainable Transport](https://www.uas.aero/nigeria-prioritizes-tourism-and-transport-for-sustainable-economic-growth/)  
+![Sustainable Transport](https://www.uas.aero/wp-content/uploads/2018/05/Abuja-1.jpg)  
 *Enhancing Destination Management through Sustainable Transport Solutions*
 
 ## Overview
