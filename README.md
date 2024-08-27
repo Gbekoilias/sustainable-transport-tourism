@@ -1,6 +1,6 @@
 # Sustainable Transport Integration in Tourism
 
-![Sustainable Transport](https://www.uas.aero/wp-content/uploads/2018/05/Abuja-1.jpg)  
+![Sustainable Transport](https://eu-assets.simpleview-europe.com/bournemouth/imageresizer/?image=%2Fdbimgs%2FBournemouth-Panorama-Hero-Shot-2022.jpg&action=FeaturedItemsGalleryProElite3x2)  
 *Enhancing Destination Management through Sustainable Transport Solutions*
 
 ## Overview
